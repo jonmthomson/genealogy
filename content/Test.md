@@ -1,7 +1,6 @@
 ---
-title: "test"
-draft: false
+title: test
+draft: true
 tags:
-  - 
 ---
 This is a test.
