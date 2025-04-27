@@ -5,9 +5,11 @@ tags:
 ---
 Born: 1828
 
-Married: [[NORTH, (1831) Ann Olive|Ann Olive North]] 1855 (Kent, England, United Kingdom)
+Occupation: Miller (Charlton, Hitchin, Hertfordshire, England, United Kingdom)
 
-Died: 11 January 1864 (Hertfordshire, England, United Kingdom)
+Married: [[NORTH, (1831) Ann Olive|Ann Olive North]] 26 July 1855 (St. Peter & St. Paul's Church, Tonbridge, Kent, England, United Kingdom)
+
+Died: 11 January 1864 (Charlton, Hitchin, Hertfordshire, England, United Kingdom)
 
 ## Children
 - [[FOREMAN, (1856) Annie Emma|Annie Emma Foreman]]
