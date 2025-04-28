@@ -1,9 +1,9 @@
 ---
 title: FOREMAN, (1860) Edward Burr
-draft: true
+draft: false
 tags:
 ---
-Born: 2 May 1860 (Hitchin, Hertfordshire, England, United Kingdom)
+Born: 2 May 1860 (Charlton, Hitchin, Hertfordshire, England, United Kingdom)
 
 Father: [[FOREMAN, (1828) Edward Burr|Edward Foreman]]
 

@@ -3,7 +3,7 @@ title: FOREMAN, (1859) Helen "Nellie"
 draft: false
 tags:
 ---
-Born: 26 August 1859 (Hitchin, Hertfordshire, England, United Kingdom)
+Born: 26 August 1859 (Charlton, Hitchin, Hertfordshire, England, United Kingdom)
 
 Father: [[FOREMAN, (1828) Edward Burr|Edward Foreman]]
 
