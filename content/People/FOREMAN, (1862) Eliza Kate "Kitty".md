@@ -9,4 +9,6 @@ Father: [[FOREMAN, (1828) Edward Burr|Edward Foreman]]
 
 Mother: [[NORTH, (1831) Ann Olive|Ann Olive North]]
 
+Married: [[HUMPHRIES, (?) William Edward|William Edward Humphries]], 21 July 1886 (Home of [[PATERSON, (?) James|James Patterson, Kakaramea, Taranaki, New Zealand]])
+
 Died: 15 September 1942 (Wellington, Wellington, New Zealand)

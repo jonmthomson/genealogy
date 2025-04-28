@@ -9,4 +9,6 @@ Father: [[FOREMAN, (1828) Edward Burr|Edward Foreman]]
 
 Mother: [[NORTH, (1831) Ann Olive|Ann Olive North]]
 
+Occupation: Dressmaker
+
 Died: 24 April 1906 (Eltham, Taranaki, New Zealand)

@@ -9,6 +9,8 @@ Father: [[FOREMAN, (1828) Edward Burr|Edward Foreman]]
 
 Mother: [[NORTH, (1831) Ann Olive|Ann Olive North]]
 
+Occupation: Hairdresser
+
 Married: [[FAULL, (?) Elizabeth Ann|Elizabeth Ann Faull]]
 
 Died: 11 November 1918 (Kaponga, Taranaki, New Zealand)
