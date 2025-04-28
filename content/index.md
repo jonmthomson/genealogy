@@ -1,5 +1,4 @@
 ---
-title: Thomson-Allen Family Genealogy
+title: Introduction
 ---
-
-This site is a collection of notes, records and recollections related to the genealogy of the Thomson-Allen family and connected families.
+Welcome, this site is a collection of notes, records and recollections related to the genealogy of the Thomson family and connected families.
