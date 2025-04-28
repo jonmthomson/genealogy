@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Thomson-Allen Family Genealogy
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This site is a collection of notes, records and recollections related to the genealogy of the Thomson-Allen family and connected families.
