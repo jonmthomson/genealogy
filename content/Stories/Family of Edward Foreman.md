@@ -51,6 +51,34 @@ After the death of [[FOREMAN, (1828) Edward Burr|Edward Foreman]] the family mov
 
 [[FOREMAN, (1859) Helen "Nellie"|Helen (Nellie) Foreman]] aged 17 years, dressmaker, and her brother [[FOREMAN, (1861) Edward Burr|Edward Burr]], hairdresser, sailed for New Zealand on the "[[Waimea]]" 2nd July 1876. [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate]] had to finish her education in England and sailed with her grandparents for New Zealand on the "[[Lady Ruthven]]". Before sailing [[NORTH, (1810) Alexander|Grandpa]] and [[OLIVE, (1806) Eliza|Grandmother North]] and [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate]] had two weeks in London to see the sights. [[NORTH, (1810) Alexander|Grandpa]] had his watch stolen in Petticoat Lane but managed to buy it back later. The "[[Lady Ruthven]]" sailed from Tilbury Docks for Port Chalmers, 2nd May 1877. This was to be ill fated for [[OLIVE, (1806) Eliza|Grandma North]] who had been warned she would not survive the trip as she had already had three stokes. She died at sea on 15th May. The ship was becalmed for some time, the Captain always drunk leaving the first mate to bring them into port. Poor [[NORTH, (1810) Alexander|Grandpa]] had enough and returned to England leaving [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate]] to live in turn with her uncles [[NORTH, (1835) Alexander John|Alex]], [[NORTH, (1839) Thomas|Thomas]], and [[NORTH, (1846) George|George]], and her aunt [[NORTH, (1844) Emma Sarah|Emma Sarah Read]].
 
-[[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate]] married [[HUMPHRIES, (?) William Edward|William Edward Humphries]] 21st July 1886 in the house of her cousin's husband, [[PATERSON, (?) James]], Kakaramea, Taranaki. [[HUMPHRIES, (?) William Edward|William]] and [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza]] bought a farm on the corner of Fraser and Rotokare Road. This being off the main highway between Normanby and Eltham. Their cottage being still there the last time I visited Taranaki.
+[[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate]] married [[HUMPHRIES, (1855) William Edward|William Edward Humphries]] 21st July 1886 in the house of her cousin's husband, [[PATERSON, (?) James]], Kakaramea, Taranaki. [[HUMPHRIES, (1855) William Edward|William]] and [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza]] bought a farm on the corner of Fraser and Rotokare Road. This being off the main highway between Normanby and Eltham. Their cottage being still there the last time I visited Taranaki.
+
+[[HUMPHRIES, (1887) Myra|Myra Humphries]] was born 20th May 1887, died 28th October, 1965. Following the death of [[HUMPHRIES, (1855) William Edward|William]] on August 7th 1894, [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] married [[CALLISTER, (?) John|John Callister]] in 1896. The farm was sold and the family moved to Wellington.
+
+[[CALLISTER, (1898) John Randal Burr|John Randal Burr Callister]] was born 1898, died 1966.
+
+[[CALLISTER, (1900) Olive Kate|Olive Kate]], born 1900.
+
+[[HUMPHRIES, (1887) Myra|Myra Humphries]] married [[HICKS, (?) Richard John|Richard John Hicks]] 1913.
+
+[[HICKS, (1917) Richard Humphries|Richard Humphries Hicks]] born 29th January 1917.
+
+[[HICKS, (1919) Margaret Kate|Margaret Kate]] born 5th February 1919.
+
+Grandfather [[CALLISTER, (?) John|John Callister]] died 18th March 1931.
+
+We always used to go to [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran's]] for those enormous Christmas dinners, a large roast, huge Christmas pudding and always black currant pie. [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] and [[CALLISTER, (1900) Olive Kate|Auntie O]] must have worked all night and day. They were the days when we were all together.
+
+[[HICKS, (1917) Richard Humphries|Richard Humphries]] married [[BEADLE, (?) Muriel Grace|Muriel Grace Beadle]] 25th May 1940.
+
+[[HICKS, (1919) Margaret Kate|Margaret Kate]] married [[BIRD, (?) William George|William George Bird]] 29th November 1947. [[BIRD, (?) William George|William George]] born Portsmouth, England from a family of Royal Marines.
+
+[[BIRD, (1957) Georgina Margaret Jennifer|Georgina Margaret Jennifer Bird]] born \[Redacted].
+
+[[BIRD, (1961) Patricia Myra Jacquline|Patricia Myra Jacquline Bird]] born \[Redacted].
+
+My [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] was a wonderful person and I was very fond of her. I used to visit and stay with her at every opportunity. She taught me about the Norths and Foremans and made them come alive to me. [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] died 16th September 1942[^2].
 
 [^1]: There was no Grey's Hospital in London. The author here likely refers to "Guy's Hospital".
+
+[^2]: Date needs verification. The descendants listing on Page 20 of the North Family Reunion (1989) booklet gives 15 September 1942.
