@@ -3,6 +3,8 @@ title: NORTH, (1810) Alexander
 draft: false
 tags:
 ---
+![[alexander-north-profile.png|300]]
+
 Born: 6 May 1810 (Bishopsgate, London, England, United Kingdom)
 
 Father: [[NORTH, (1789) John|John North]]
