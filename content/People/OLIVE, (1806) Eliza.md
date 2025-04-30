@@ -3,6 +3,8 @@ title: OLIVE, (1806) Eliza
 draft: false
 tags:
 ---
+![[eliza-olive-profile.png|300]]
+
 Born: 6 April 1806 (Mayfield, East Sussex, England, United Kingdom)
 
 Baptised: Mayfield, East Sussex, England, United Kingdom
