@@ -17,7 +17,7 @@ Occupation: Hairdresser
 
 Married: [[OLIVE, (1806) Eliza|Eliza Olive]], 28 December 1830 (Christ Church, Spitalfields, London, England, United Kingdom)
 
-Married: [[HAYDEN, (1836) Mary|Mary Hayden]], 10 June 1880 (Tonbridge, Kent, England, United Kingdom)
+Married: [[HAYDEN, (1836) Mary|Mary Hayden]], 10 June 1880 (Tonbridge, Kent, England, United Kingdom)[^1]
 
 Died: 28 September 1892 (Tonbridge, Kent, England, United Kingdom)
 
@@ -36,3 +36,5 @@ Died: 28 September 1892 (Tonbridge, Kent, England, United Kingdom)
 - 1841 - [[Walnut Tree House]], Mayfield (1841 Census)
 - 1861 - [[460 High Street, Tonbridge]]
 - 1876 - [[35 High Street, Tonbridge]]
+
+[^1]: [[Marriage Certificate - Alexander North & Mary Hayden]]
