@@ -3,7 +3,7 @@ title: Tonbridge Municipal Cemetery
 draft: false
 tags:
 ---
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=0.2651309967041016%2C51.202998073943284%2C0.2814817428588868%2C51.21283845817091&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=16/51.20792/0.27331">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=0.2711820602416993%2C51.203213186786165%2C0.28311252593994146%2C51.208133618745606&amp;layer=mapnik&amp;marker=51.20567346847335%2C0.2771472930908203" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.205673&amp;mlon=0.277147#map=17/51.205673/0.277147">View Larger Map</a></small>
 
 The Tonbridge Municipal Cemetery is the location of the North Family Plot. In 1984 Lex North visited the cemetery and found the graves on a hill side overlooking a peaceful valley:
 
