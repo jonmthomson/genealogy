@@ -1,11 +1,15 @@
 ---
-title: Family of Edward Foreman
+title: Ann Olive & Edward Burr Foreman
 draft: false
 tags:
 ---
 *Copied from the North Family Reunion Booklet (1989)*
 
-*By Margaret Bird*
+## Ann Olive North
+
+[[NORTH, (1831) Ann Olive|Ann Olive North]] was born at Mayfield, Sussex. Her childhood years were spent living at [[Walnut Tree House]]. It is not known how she spent her early working life but being the eldest in the family she possibly helped at home. She married [[FOREMAN, (1828) Edward Burr|Edward Foreman]] and moved to Hitchin to live and it was here that [[FOREMAN, (1828) Edward Burr|Edward]] died under suspicious circumstances. This story is told by Margaret Bird.
+
+## Family of Edward Foreman
 
 [[FOREMAN, (1828) Edward Burr|Edward Foreman]] married [[NORTH, (1831) Ann Olive|Ann Olive]] at the [[St. Peter and St. Paul's Church, Tonbridge|Tonbridge Parish Church]], 26th July 1855. Witnesses, [[NORTH, (1810) Alexander|Alexander North]], hairdresser and [[FOREMAN, (?) Emma|Emma Foreman]]. [[NORTH, (1831) Ann Olive|Ann North]] aged 23 years, [[FOREMAN, (1828) Edward Burr|Edward Foreman]] aged 27 years, occupation miller.
 
