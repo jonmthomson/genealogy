@@ -11,10 +11,10 @@ Mother: [[NORTH, (1831) Ann Olive|Ann Olive North]]
 
 Occupation: Dressmaker
 
-Married: [[MASLEM, (?) Caleb|Caleb Maslem]]
+Married: [[MASLIN, (?) Caleb Jesse|Caleb Jesse Maslin]]
 
 Died: 24 April 1906 (Eltham, Taranaki, New Zealand)
 
-## Children
-- [[Maslem, (?) Roy Sydney|Roy Sydney Maslem]]
-- [[MASLEM, (?) Daisy Olive|Daisy Olive Maslem]]
+## ## Children
+- [[MASLIN, (?) Roy Sydney|Roy Sydney Maslin]]
+- [[MASLIN, (?) Daisy Olive|Daisy Olive Maslin]]

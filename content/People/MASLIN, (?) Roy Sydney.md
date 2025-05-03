@@ -1,8 +1,8 @@
 ---
-title: MASLEM, (?) Daisy Olive
+title: Maslem, (?) Roy Sydney
 draft: false
 tags:
 ---
-Father: [[MASLEM, (?) Caleb|Caleb Maslem]]
+Father: [[MASLIN, (?) Caleb Jesse|Caleb Jesse Maslin]]
 
 Mother: [[FOREMAN, (1859) Helen "Nellie"|Helen "Nellie" Foreman]]
