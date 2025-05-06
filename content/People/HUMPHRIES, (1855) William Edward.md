@@ -1,5 +1,5 @@
 ---
-title: HUMPHRIES, (?) William Edward
+title: HUMPHRIES, (1855) William Edward
 draft: false
 tags:
 ---
