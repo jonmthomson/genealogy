@@ -1,5 +1,5 @@
 ---
-title: MASLEM, (?) Daisy Olive
+title: MASLIN, (?) Daisy Olive
 draft: false
 tags:
 ---
