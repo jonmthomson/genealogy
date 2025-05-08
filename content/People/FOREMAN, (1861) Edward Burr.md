@@ -11,6 +11,6 @@ Mother: [[NORTH, (1831) Ann Olive|Ann Olive North]]
 
 Occupation: Hairdresser
 
-Married: [[FORD, (1874) Elizabeth Ann|Elizabeth Ann Faull]]
+Married: [[FORD, (1874) Elizabeth Ann|Elizabeth Ann Faull (nee Ford)]]
 
 Died: 11 November 1918 (Kaponga, Taranaki, New Zealand)

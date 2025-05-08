@@ -1,12 +1,12 @@
 ---
-title: FOREMAN, (1902) Olive Annie
+title: FOREMAN, (1910) Dorothy May
 draft: false
 tags:
 ---
-Born: 18 December 1902 (Kaponga, Taranaki, New Zealand)[^1]
+Born: 22 February 1910
 
 Father: [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]]
 
 Mother: [[FORD, (1874) Elizabeth Ann|Elizabeth Ann Faull (nee Ford)]]
 
-[^1]: NZ births registration number is 1903/10981
+Died: February 1984
