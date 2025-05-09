@@ -7,7 +7,7 @@ Born: 15 February 1758 (London, England, United Kingdom)
 
 Married: [[PORTEUS, Mary Magdalen|Mary Magdalen Porteus]], 14 July 1787 (London, England, United Kingdom)
 
-Death: 13 February 1847 (London, England, United Kingdom)
+Death: 13 February 1847 (London, England, United Kingdom)[^1]
 
 ## Parents
 - [[NORTH, (1723) John|John North]]
@@ -25,3 +25,6 @@ Death: 13 February 1847 (London, England, United Kingdom)
 
 ## Children
 Unknown
+
+
+[^1]: [[Death Record - John North (1758-1847)]]
