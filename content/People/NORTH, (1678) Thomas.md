@@ -35,6 +35,7 @@ G3 --> P12(Thomas North<br>b. 1703):::green
 
 ## Parents
 - [[NORTH, (1650) Thomas|Thomas North]]
+- Mother unknown
 
 ## Siblings
 - [[NORTH, (1676) Moses|Moses North]]
@@ -47,3 +48,5 @@ G3 --> P12(Thomas North<br>b. 1703):::green
 - [[NORTH, (1696) Mary|Mary North]]
 
 ## Children
+- [[NORTH, (1703) Thomas|Thomas North]]
+- Other children unknown
