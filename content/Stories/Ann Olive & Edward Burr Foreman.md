@@ -9,6 +9,9 @@ tags:
 
 [[NORTH, (1831) Ann Olive|Ann Olive North]] was born at Mayfield, Sussex. Her childhood years were spent living at [[Walnut Tree House]]. It is not known how she spent her early working life but being the eldest in the family she possibly helped at home. She married [[FOREMAN, (1828) Edward Burr|Edward Foreman]] and moved to Hitchin to live and it was here that [[FOREMAN, (1828) Edward Burr|Edward]] died under suspicious circumstances. This story is told by Margaret Bird.
 
+![[ann-olive-north.jpg|600]]
+*Ann Olive North*
+
 ## Family of Edward Foreman
 
 [[FOREMAN, (1828) Edward Burr|Edward Foreman]] married [[NORTH, (1831) Ann Olive|Ann Olive]] at the [[St. Peter and St. Paul's Church, Tonbridge|Tonbridge Parish Church]], 26th July 1855. Witnesses, [[NORTH, (1810) Alexander|Alexander North]], hairdresser and [[FOREMAN, (?) Emma|Emma Foreman]]. [[NORTH, (1831) Ann Olive|Ann North]] aged 23 years, [[FOREMAN, (1828) Edward Burr|Edward Foreman]] aged 27 years, occupation miller.
@@ -26,6 +29,9 @@ tags:
 [[FOREMAN, (1862) Eliza Kate "Kitty"|Foreman, Eliza Kate]], born 9th July 1862.
 
 All born Charlton, Hitchin, Hertfordshire.
+
+![[edward-foreman-1828-young.jpg|600]]
+*Edward Foreman as a young man*
 
 > [!Note] The Late Murder Near Hitchin
 > 
