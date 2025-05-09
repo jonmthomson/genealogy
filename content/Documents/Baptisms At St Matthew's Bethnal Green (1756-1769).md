@@ -1,5 +1,5 @@
 ---
-title: Baptisms At St Matthew's Bethnal Green 1756-1769
+title: Baptisms At St Matthew's Bethnal Green (1756-1769)
 draft: false
 tags:
 ---
