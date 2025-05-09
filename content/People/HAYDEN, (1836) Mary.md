@@ -9,4 +9,4 @@ Married: [[NORTH, (1810) Alexander|Alexander North]], 10 June 1880 (Tonbridge, K
 
 Died: 15 March 1892
 
-[^1]: [[Marriage Certificate - Alexander North & Mary Hayden]]
+[^1]: [[Marriage Record - Alexander North & Mary Hayden]]

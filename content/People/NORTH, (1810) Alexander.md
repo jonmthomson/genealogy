@@ -70,4 +70,4 @@ G6 --> P19(Mary Ann North<br>1848 - 1866)
 - 1861 - [[460 High Street, Tonbridge]]
 - 1876 - [[35 High Street, Tonbridge]]
 
-[^1]: [[Marriage Certificate - Alexander North & Mary Hayden]]
+[^1]: [[Marriage Record - Alexander North & Mary Hayden]]
