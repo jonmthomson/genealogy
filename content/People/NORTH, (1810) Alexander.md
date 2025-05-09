@@ -27,13 +27,14 @@ flowchart TD
 
 classDef blue fill:#66deff,stroke:#000,color:#000
 classDef green fill:#6ad98b,stroke:#000,color:#000
+classDef lavender fill:#c7b0fd,stroke:#000,color:#000
 
 %% GENERATION 8 %%
 P1(John North<br>b. 1789):::green --> G7(Gen 7):::blue
 P2(Sarah Waite<br>b. 1785):::green --- G7
 
 %% GENERATION 7 %%
-G7 --> P3(Alexander North<br>1810 - 1892):::green --- G6(Gen 6):::blue
+G7 --> P3(Alexander North<br>1810 - 1892):::lavender --- G6(Gen 6):::blue
 P4(Eliza Olive<br>1806 - 1830):::green --- G6
 G7 --> P5(Elizabeth North<br>b. 1812)
 G7 --> P6(John North<br>b. 1814)
