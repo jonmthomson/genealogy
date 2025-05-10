@@ -5,6 +5,12 @@ tags:
 ---
 Born: Redacted
 
-Father: [[BIRD, (?) William George|William George Bird]]
+## Parents
+- [[BIRD, William George|William George Bird]]
+- [[HICKS, (1919) Margaret Kate|Margaret Kate Hicks]]
 
-Mother: [[HICKS, (1919) Margaret Kate|Margaret Kate Hicks]]
+## Siblings
+- [[BIRD, (1961) Patricia Myra Jacquline|Patricia Myra Jacquline Bird]]
+
+## Children
+Unknown

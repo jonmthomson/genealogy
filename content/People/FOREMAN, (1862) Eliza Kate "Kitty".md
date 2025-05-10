@@ -11,7 +11,7 @@ Mother: [[NORTH, (1831) Ann Olive|Ann Olive North]]
 
 Married: [[HUMPHRIES, (1855) William Edward|William Edward Humphries]], 21 July 1886 (Home of [[PATERSON, (?) James|James Patterson]], Kakaramea, Taranaki, New Zealand)
 
-Married: [[CALLISTER, (?) John|John Callister]], 1896
+Married: [[CALLISTER, John|John Callister]], 1896
 
 Died: 16 September 1942 (Wellington, Wellington, New Zealand)[^1]
 

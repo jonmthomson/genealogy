@@ -5,7 +5,7 @@ tags:
 ---
 Born: 1898
 
-Father: [[CALLISTER, (?) John|John Callister]]
+Father: [[CALLISTER, John|John Callister]]
 
 Mother: [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate Foreman]]
 
