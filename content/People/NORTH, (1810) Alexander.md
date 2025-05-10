@@ -56,7 +56,12 @@ G6 --> P19(Mary Ann North<br>1848 - 1866)
 - [[WAITE, (1785) Sarah|Sarah Waite]]
 
 ## Siblings
-
+- [[NORTH, (1812) Elizabeth|Elizabeth North]]
+- [[NORTH, (1814) John|John North]]
+- [[NORTH, (1817) Joseph|Joseph North]]
+- [[NORTH, (1818) Charlotte|Charlotte North]]
+- [[NORTH, (1821) Caroline|Caroline North]]
+- [[NORTH, (1823) Thomas George|Thomas George North]]
 
 ## Children
 - [[NORTH, (1831) Ann Olive|Ann Olive North]]
