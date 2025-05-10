@@ -1,5 +1,5 @@
 ---
-title: FOREMAN, (1904) Edward Alick
+title: FOREMAN, (1904) Edward Alick "Mick"
 draft: false
 tags:
 ---
