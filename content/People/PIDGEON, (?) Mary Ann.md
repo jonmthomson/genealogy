@@ -9,7 +9,7 @@ Married: [[NORTH, (1837) John George|John George North]] 25 November 1860 (Tonbr
 
 Died: 13 May 1879 (Tonbridge, Kent, England, United Kingdom)
 
-## ## Children
+## Children
 - [[NORTH, (1863) Alexander|Alexander North]]
 - [[NORTH, (1867) Henry Thomas|Henry Thomas North]]
 - [[NORTH, (1871) Lucy Olive|Lucy Olive North]]

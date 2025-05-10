@@ -15,6 +15,6 @@ Married: [[MASLIN, (?) Caleb Jesse|Caleb Jesse Maslin]]
 
 Died: 24 April 1906 (Eltham, Taranaki, New Zealand)
 
-## ## Children
+## Children
 - [[MASLIN, (?) Roy Sydney|Roy Sydney Maslin]]
 - [[MASLIN, (?) Daisy Olive|Daisy Olive Maslin]]

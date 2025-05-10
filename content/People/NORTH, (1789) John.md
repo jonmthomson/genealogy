@@ -5,7 +5,7 @@ tags:
 ---
 Born: 16th Aug 1789 (London, England, United Kingdom)
 
-Married: [[WAITE, (1785) Sarah|Sarah Waite]], 18 October 1809 (Christ Church, Spitalfields, London, England, United Kingdom)
+Married: [[WAITE, (1785) Sarah|Sarah Waite]], 18 October 1809 (Christ Church, Spitalfields, London, England, United Kingdom)[^1]
 
 Occupation: Porter and warehouseman of Old Bethlehem
 
@@ -21,3 +21,6 @@ Occupation: Porter and warehouseman of Old Bethlehem
 
 ## Children
 Unknown
+
+
+[^1]: [[Marriage Record - John North & Sarah Waite]]
