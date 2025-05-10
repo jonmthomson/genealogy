@@ -35,11 +35,11 @@ G5 --> P11(James North<br>b. 1766)
 G5 --> P12(Joshua North<br>b. 1769)
 
 %% CHILDREN %%
-G5 --> P5(John North<br>b. 1789):::green
-G5 --> P6(Mary Magdalen North<br>b. 1791)
-G5 --> P7(Sarah North<br>b. 1797)
-G5 --> P8(Elizabeth North<br>b. 1799)
-G5 --> P9(William North<br>b. 1805)
+G6 --> P13(John North<br>b. 1789):::green
+G6 --> P14(Mary Magdalen North<br>b. 1791)
+G6 --> P15(Sarah North<br>b. 1797)
+G6 --> P16(Elizabeth North<br>b. 1799)
+G6 --> P17(William North<br>b. 1805)
 ```
 
 ## Parents
