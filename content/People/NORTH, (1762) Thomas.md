@@ -5,6 +5,8 @@ tags:
 ---
 Born: 4 June 1762 (London, England, United Kingdom)
 
+Baptised: 27 June 1762 (St. Matthew's Church, Bethnal Green, London, England, United Kingdom)[^1]
+
 ## Parents
 - [[NORTH, (1723) John|John North]]
 - [[NORMAN, Suzanna|Suzanna Norman]]
@@ -21,3 +23,5 @@ Born: 4 June 1762 (London, England, United Kingdom)
 
 ## Children
 Unknown
+
+[^1]: [[Baptisms At St Matthew's Bethnal Green (1756-1769)]]

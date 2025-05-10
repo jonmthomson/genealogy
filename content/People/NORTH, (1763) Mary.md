@@ -5,6 +5,8 @@ tags:
 ---
 Born: 5 December 1763 (London, England, United Kingdom)
 
+Baptised: 25 December 1763 (St. Matthew's Church, Bethnal Green, London, England, United Kingdom)[^1]
+
 Died: 22 July 1767
 
 ## Parents
@@ -23,3 +25,5 @@ Died: 22 July 1767
 
 ## Children
 Unknown
+
+[^1]: [[Baptisms At St Matthew's Bethnal Green (1756-1769)]]
