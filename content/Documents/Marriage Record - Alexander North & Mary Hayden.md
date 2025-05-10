@@ -1,5 +1,5 @@
 ---
-title: Marriage Certificate - Alexander North & Mary Hayden
+title: Marriage Record - Alexander North & Mary Hayden
 draft: false
 tags:
 ---
