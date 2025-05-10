@@ -26,7 +26,11 @@ Death: 13 February 1847 (London, England, United Kingdom)[^3]
 - [[NORTH, (1769) Joshua|Joshua North]]
 
 ## Children
-Unknown
+- [[NORTH, (1789) John|John North]]
+- [[NORTH, (1791) Mary Magdalen|Mary Magdalen North]]
+- [[NORTH, (1797) Sarah|Sarah North]]
+- [[NORTH, (1799) Elizabeth|Elizabeth North]]
+- [[NORTH, (1805) William|William North]]
 
 
 

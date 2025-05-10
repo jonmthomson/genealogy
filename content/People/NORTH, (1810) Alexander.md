@@ -9,7 +9,7 @@ Born: 6 May 1810 (Bishopsgate, London, England, United Kingdom)
 
 Father: [[NORTH, (1789) John|John North]]
 
-Mother: [[WAITE, (?) Sarah|Sarah Waite]]
+Mother: [[WAITE, (1785) Sarah|Sarah Waite]]
 
 Baptised: St. Botolphs-without-Bishopsgate (Bishopsgate, London, England, United Kingdom)
 
