@@ -7,10 +7,6 @@ tags:
 
 Born: 6 May 1810 (Bishopsgate, London, England, United Kingdom)
 
-Father: [[NORTH, (1789) John|John North]]
-
-Mother: [[WAITE, (1785) Sarah|Sarah Waite]]
-
 Baptised: St. Botolphs-without-Bishopsgate (Bishopsgate, London, England, United Kingdom)
 
 Occupation: Hairdresser
@@ -19,7 +15,7 @@ Married: [[OLIVE, (1806) Eliza|Eliza Olive]], 28 December 1830 (Christ Church, S
 
 Married: [[HAYDEN, (1836) Mary|Mary Hayden]], 10 June 1880 (Tonbridge, Kent, England, United Kingdom)[^1]
 
-Died: 28 September 1892 (Tonbridge, Kent, England, United Kingdom)
+Died: 27 September 1892 (Tonbridge, Kent, England, United Kingdom)
 
 ```mermaid
 flowchart TD
@@ -54,6 +50,13 @@ G6 --> P17(Emma Sarah<br>1844 - 1922)
 G6 --> P18(George North<br>b. 1846)
 G6 --> P19(Mary Ann North<br>1848 - 1866)
 ```
+
+## Parents
+- [[NORTH, (1789) John|John North]]
+- [[WAITE, (1785) Sarah|Sarah Waite]]
+
+## Siblings
+
 
 ## Children
 - [[NORTH, (1831) Ann Olive|Ann Olive North]]

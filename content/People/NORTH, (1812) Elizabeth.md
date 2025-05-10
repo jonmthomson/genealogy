@@ -3,7 +3,7 @@ title: NORTH, (1812) Elizabeth
 draft: false
 tags:
 ---
-Born: 1812 (Bishopsgate, London, England, United Kingdom)
+Born: 25 March 1812 (Bishopsgate, London, England, United Kingdom)
 
 Father: [[NORTH, (1789) John|John North]]
 
