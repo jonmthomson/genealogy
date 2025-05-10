@@ -19,7 +19,7 @@ P1(Thomas North<br>b. 1703):::green --> G4(Gen 4):::blue
 P2(Alice Nickoson<br>b. ?):::green --> G4
 
 %% SIBLINGS %%
-G4 --> P3(John North<br>b. ):::lavender --> G5(Gen 5):::blue
+G4 --> P3(John North<br>b. 1723):::lavender --> G5(Gen 5):::blue
 P4(Suzanna Norman<br>b. ?):::green --> G5
 
 %% CHILDREN %%
