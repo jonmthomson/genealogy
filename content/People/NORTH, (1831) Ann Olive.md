@@ -20,7 +20,14 @@ Died: Spinal injury, 5 November 1874 (Orthopaedic Hospital, 56 Bolsover Square, 
 - [[OLIVE, (1806) Eliza|Eliza Olive]]
 
 ## Siblings
-Unknown
+- [[NORTH, (1833) Harriet|Harriet North]]
+- [[NORTH, (1835) Alexander John|Alexander John North]]
+- [[NORTH, (1837) John George|John George North]]
+- [[NORTH, (1839) Thomas|Thomas North]]
+- [[NORTH, (1841) Eliza|Eliza North]]
+- [[NORTH, (1844) Emma Sarah|Emma Sarah North]]
+- [[NORTH, (1846) George|George North]]
+- [[NORTH, (1848) Mary Ann|Mary Ann North]]
 
 ## Children
 - [[FOREMAN, (1856) Annie Emma|Annie Emma Foreman]]
