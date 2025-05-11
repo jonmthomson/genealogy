@@ -10,4 +10,4 @@ Married: [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate Foreman]], 21 July 1886
 Died: 7 August 1894 (Hawera, Taranaki, New Zealand)
 
 ## Children
-- [[HUMPHRIES, (1887) Myra|Myra Humphries]]
+- [[HUMPHRIES, (1887) Myra Mary|Myra Humphries]]

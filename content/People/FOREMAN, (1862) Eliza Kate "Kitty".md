@@ -23,7 +23,7 @@ Died: 16 September 1942 (Wellington, Wellington, New Zealand)[^1]
 - [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]]
 
 ## Children
-- [[HUMPHRIES, (1887) Myra|Myra Humphries]]
+- [[HUMPHRIES, (1887) Myra Mary|Myra Humphries]]
 - [[CALLISTER, (1898) John Randal Burr|John Randal Burr Callister]]
 - [[CALLISTER, (1900) Olive Kate|Olive Kate Callister]]
 

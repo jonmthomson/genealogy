@@ -5,12 +5,20 @@ tags:
 ---
 Born: 5 February 1919
 
-Father: [[HICKS, (?) Richard John|Richard John Hicks]]
-
-Mother: [[HUMPHRIES, (1887) Myra|Myra Humphries]]
-
 Married: [[BIRD, William George|William George Bird]], 29 November 1947
 
+Died: c. 2000[^1]
+
+## Parents
+- [[HICKS, Richard John|Richard John Hicks]]
+- [[HUMPHRIES, (1887) Myra Mary|Myra Humphries]]
+
+## Siblings
+- [[HICKS, (1917) Richard Humphries|Richard Humphries Hicks]]
+
 ## Children
-- [[BIRD, (1957) Georgina Margaret Jennifer|Georgina (Margaret) Jennifer Bird]]
-- [[BIRD, (1961) Patricia Myra Jacquline|Patricia Myra Jacquline Bird]]
+- Redacted
+
+
+
+[^1]: NZ Deaths registration number 2000/25923

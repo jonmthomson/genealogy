@@ -9,7 +9,7 @@ Father: [[HUMPHRIES, (1855) William Edward|William Edward Humphries]]
 
 Mother: [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate Foreman]]
 
-Married: [[HICKS, (?) Richard John|Richard John Hicks]], 1913
+Married: [[HICKS, Richard John|Richard John Hicks]], 1913
 
 Died: 28 October 1965
 

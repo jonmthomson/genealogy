@@ -14,7 +14,7 @@ tags:
 
 ## Family of Edward Foreman
 
-[[FOREMAN, (1828) Edward Burr|Edward Foreman]] married [[NORTH, (1831) Ann Olive|Ann Olive]] at the [[St. Peter and St. Paul's Church, Tonbridge|Tonbridge Parish Church]], 26th July 1855. Witnesses, [[NORTH, (1810) Alexander|Alexander North]], hairdresser and [[FOREMAN, (?) Emma|Emma Foreman]]. [[NORTH, (1831) Ann Olive|Ann North]] aged 23 years, [[FOREMAN, (1828) Edward Burr|Edward Foreman]] aged 27 years, occupation miller.
+[[FOREMAN, (1828) Edward Burr|Edward Foreman]] married [[NORTH, (1831) Ann Olive|Ann Olive]] at the [[St. Peter and St. Paul's Church, Tonbridge|Tonbridge Parish Church]], 26th July 1855. Witnesses, [[NORTH, (1810) Alexander|Alexander North]], hairdresser and [[FOREMAN, Emma|Emma Foreman]]. [[NORTH, (1831) Ann Olive|Ann North]] aged 23 years, [[FOREMAN, (1828) Edward Burr|Edward Foreman]] aged 27 years, occupation miller.
 
 [[FOREMAN, (1856) Annie Emma|Foreman, Annie Emma]], born 18th July 1856, died aged 16 years.
 
@@ -63,13 +63,13 @@ After the death of [[FOREMAN, (1828) Edward Burr|Edward Foreman]] the family mov
 
 [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate]] married [[HUMPHRIES, (1855) William Edward|William Edward Humphries]] 21st July 1886 in the house of her cousin's husband, [[PATERSON, (?) James|James Paterson]], Kakaramea, Taranaki. [[HUMPHRIES, (1855) William Edward|William]] and [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza]] bought a farm on the corner of Fraser and Rotokare Road. This being off the main highway between Normanby and Eltham. Their cottage being still there the last time I visited Taranaki.
 
-[[HUMPHRIES, (1887) Myra|Myra Humphries]] was born 20th May 1887, died 28th October, 1965. Following the death of [[HUMPHRIES, (1855) William Edward|William]] on August 7th 1894, [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] married [[CALLISTER, John|John Callister]] in 1896. The farm was sold and the family moved to Wellington.
+[[HUMPHRIES, (1887) Myra Mary|Myra Humphries]] was born 20th May 1887, died 28th October, 1965. Following the death of [[HUMPHRIES, (1855) William Edward|William]] on August 7th 1894, [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] married [[CALLISTER, John|John Callister]] in 1896. The farm was sold and the family moved to Wellington.
 
 [[CALLISTER, (1898) John Randal Burr|John Randal Burr Callister]] was born 1898, died 1966.
 
 [[CALLISTER, (1900) Olive Kate|Olive Kate]], born 1900.
 
-[[HUMPHRIES, (1887) Myra|Myra Humphries]] married [[HICKS, (?) Richard John|Richard John Hicks]] 1913.
+[[HUMPHRIES, (1887) Myra Mary|Myra Humphries]] married [[HICKS, Richard John|Richard John Hicks]] 1913.
 
 [[HICKS, (1917) Richard Humphries|Richard Humphries Hicks]] born 29th January 1917.
 
