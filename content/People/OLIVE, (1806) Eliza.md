@@ -13,6 +13,12 @@ Married: [[NORTH, (1810) Alexander|Alexander North]], 28 December 1830 (Christ C
 
 Died: 15 May 1877 (At sea)
 
+## Parents
+Unknown
+
+## Siblings
+Unknown
+
 ## Children
 - [[NORTH, (1831) Ann Olive|Ann Olive North]]
 - [[NORTH, (1833) Harriet|Harriet North]]

@@ -11,6 +11,12 @@ Married: [[NORTH, (1831) Ann Olive|Ann Olive North]] 26 July 1855 (St. Peter & S
 
 Died: 11 January 1864 (Charlton, Hitchin, Hertfordshire, England, United Kingdom)
 
+## Parents
+Unknown
+
+## Siblings
+Unknown
+
 ## Children
 - [[FOREMAN, (1856) Annie Emma|Annie Emma Foreman]]
 - [[FOREMAN, (1857) Mary Elena|Mary Elena Foreman]]
