@@ -3,6 +3,8 @@ title: CALLISTER, (1900) Olive Kate
 draft: false
 tags:
 ---
+![[olive-callister-profile.jpg]]
+
 Born: c. 1900
 
 Died: Unknown
