@@ -71,7 +71,13 @@ After the death of [[FOREMAN, (1828) Edward Burr|Edward Foreman]] the family mov
 
 [[CALLISTER, (1900) Olive Kate|Olive Kate]], born 1900.
 
+![[kitty-myra-olive.jpg|500]]
+*Eliza Kate Foreman with her daughters, Myra Mary Humphries and Olive Kate Callister*
+
 [[HUMPHRIES, (1887) Myra Mary|Myra Humphries]] married [[HICKS, Richard John|Richard John Hicks]] 1913.
+
+![[myra-humphries.jpg|300]]
+*Myra Mary Humphries*
 
 [[HICKS, (1917) Richard Humphries|Richard Humphries Hicks]] born 29th January 1917.
 
@@ -91,6 +97,6 @@ We always used to go to [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran's]] for those 
 
 My [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] was a wonderful person and I was very fond of her. I used to visit and stay with her at every opportunity. She taught me about the Norths and Foremans and made them come alive to me. [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] died 16th September 1942[^2].
 
-[^1]: There was no Grey's Hospital in London. The author here likely refers to "Guy's Hospital".
 
+[^1]: There was no Grey's Hospital in London. The author here likely refers to "Guy's Hospital".
 [^2]: Date needs verification. The descendants listing on Page 20 of the North Family Reunion (1989) booklet gives 15 September 1942.
