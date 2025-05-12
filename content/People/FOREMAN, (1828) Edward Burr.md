@@ -3,6 +3,7 @@ title: FOREMAN, (1828) Edward Burr
 draft: false
 tags:
 ---
+
 Born: 1828
 
 Occupation: Miller (Charlton, Hitchin, Hertfordshire, England, United Kingdom)

@@ -3,10 +3,17 @@ title: CALLISTER, (1898) John Randal Burr
 draft: false
 tags:
 ---
-Born: 1898
+Born: c. 1898
 
-Father: [[CALLISTER, John|John Callister]]
+Died: c. 1966
 
-Mother: [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate Foreman]]
+## Parents
+- [[CALLISTER, John|John Callister]]
+- [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate "Kitty" Humphries (nee Foreman)]]
 
-Died: 1966
+## Siblings
+- [[HUMPHRIES, (1887) Myra Mary|Myra Mary Humphries]] (half-sister)
+- [[CALLISTER, (1900) Olive Kate|Olive Kate Callister]]
+
+## Children
+Unknown

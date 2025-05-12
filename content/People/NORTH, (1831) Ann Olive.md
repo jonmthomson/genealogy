@@ -3,6 +3,8 @@ title: NORTH, (1831) Ann Olive
 draft: false
 tags:
 ---
+![[ann-olive-north-profile.jpg|300]]
+
 Born: 25 December 1831 (Mayfield, East Sussex, England, United Kingdom)
 
 Baptised: Mayfield, East Sussex, England, United Kingdom
