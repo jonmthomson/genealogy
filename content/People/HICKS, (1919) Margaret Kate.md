@@ -3,6 +3,8 @@ title: HICKS, (1919) Margaret Kate
 draft: false
 tags:
 ---
+![[margaret-kate-hicks-profile.jpg|250]]
+
 Born: 5 February 1919
 
 Married: [[BIRD, William George|William George Bird]], 29 November 1947
@@ -14,7 +16,7 @@ Died: c. 2000[^1]
 - [[HUMPHRIES, (1887) Myra Mary|Myra Humphries]]
 
 ## Siblings
-- [[HICKS, (1917) Richard Humphries|Richard Humphries Hicks]]
+- [[HICKS, (1917) Richard Humphries "Jack"|Richard Humphries Hicks]]
 
 ## Children
 - Redacted

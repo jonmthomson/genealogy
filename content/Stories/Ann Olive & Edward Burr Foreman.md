@@ -65,29 +65,37 @@ After the death of [[FOREMAN, (1828) Edward Burr|Edward Foreman]] the family mov
 
 [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate]] married [[HUMPHRIES, (1855) William Edward|William Edward Humphries]] 21st July 1886 in the house of her cousin's husband, [[PATERSON, (?) James|James Paterson]], Kakaramea, Taranaki. [[HUMPHRIES, (1855) William Edward|William]] and [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza]] bought a farm on the corner of Fraser and Rotokare Road. This being off the main highway between Normanby and Eltham. Their cottage being still there the last time I visited Taranaki.
 
-[[HUMPHRIES, (1887) Myra Mary|Myra Humphries]] was born 20th May 1887, died 28th October, 1965. Following the death of [[HUMPHRIES, (1855) William Edward|William]] on August 7th 1894, [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] married [[CALLISTER, John|John Callister]] in 1896. The farm was sold and the family moved to Wellington.
-
-[[CALLISTER, (1898) John Randal Burr|John Randal Burr Callister]] was born 1898, died 1966.
-
-[[CALLISTER, (1900) Olive Kate|Olive Kate]], born 1900.
+[[HUMPHRIES, (1887) Myra Mary|Myra Humphries]] was born 20th May 1887, died 28th October, 1965. Following the death of [[HUMPHRIES, (1855) William Edward|William]] on August 7th 1894, [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] married [[CALLISTER, John|John Callister]] in 1896. The farm was sold and the family moved to Wellington. 
 
 ![[kitty-myra-olive.jpg|500]]
 *Eliza Kate Foreman with her daughters, Myra Mary Humphries and Olive Kate Callister*
 
-[[HUMPHRIES, (1887) Myra Mary|Myra Humphries]] married [[HICKS, Richard John|Richard John Hicks]] 1913.
 
 ![[myra-humphries.jpg|300]]
 *Myra Mary Humphries*
 
-[[HICKS, (1917) Richard Humphries|Richard Humphries Hicks]] born 29th January 1917.
+
+![[john-randal-burr-callister.jpg|300]]
+*John Randal Burr Callister*
+
+[[CALLISTER, (1898) John Randal Burr|John Randal Burr Callister]] was born 1898, died 1966. 
+
+[[CALLISTER, (1900) Olive Kate|Olive Kate]], born 1900. 
+
+[[HUMPHRIES, (1887) Myra Mary|Myra Humphries]] married [[HICKS, Richard John|Richard John Hicks]] 1913. 
+
+[[HICKS, (1917) Richard Humphries "Jack"|Richard Humphries Hicks]] born 29th January 1917. 
 
 [[HICKS, (1919) Margaret Kate|Margaret Kate]] born 5th February 1919.
+
+![[richard-myra-richard-margaret-hicks.jpg|600]]
+*Left to right, back to front: Richard Humphries Hicks, Margaret Kate Bird (nee Hicks), Myra Mary Hicks (nee Humphries), Richard John Hicks*
 
 Grandfather [[CALLISTER, John|John Callister]] died 18th March 1931.
 
 We always used to go to [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran's]] for those enormous Christmas dinners, a large roast, huge Christmas pudding and always black currant pie. [[FOREMAN, (1862) Eliza Kate "Kitty"|Gran]] and [[CALLISTER, (1900) Olive Kate|Auntie O]] must have worked all night and day. They were the days when we were all together.
 
-[[HICKS, (1917) Richard Humphries|Richard Humphries]] married [[BEADLE, Muriel Grace|Muriel Grace Beadle]] 25th May 1940.
+[[HICKS, (1917) Richard Humphries "Jack"|Richard Humphries]] married [[BEADLE, Muriel Grace|Muriel Grace Beadle]] 25th May 1940.
 
 [[HICKS, (1919) Margaret Kate|Margaret Kate]] married [[BIRD, William George|William George Bird]] 29th November 1947. [[BIRD, William George|William George]] born Portsmouth, England from a family of Royal Marines.
 
