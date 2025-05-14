@@ -5,6 +5,8 @@ tags:
 ---
 Born: 22 February 1910
 
+Married: [[CLEVERLEY, (1911) Gordon George|Gordon George Cleverley]], 23 January 1933 (Wellington, Wellington, New Zealand)
+
 Died: February 1984
 
 ## Parents
@@ -22,4 +24,5 @@ Died: February 1984
 - [[FOREMAN, (1908) Christopher Raymond "Ray"|Christopher Raymond "Ray" Foreman]]
 
 ## Children
-TBD
+- Diana Cleverley
+- David George Cleverley

@@ -1,0 +1,31 @@
+---
+title: FORD, Henry James
+draft: false
+tags:
+---
+Born: c. 1852
+
+Married: [[FORD, Emily Ann]], c. 1873[^1]
+
+Died: c. 1915[^2]
+
+## Parents
+Unknown
+
+## Siblings
+Unknown
+
+## Children
+- [[FORD, (1874) Elizabeth Ann|Elizabeth Ann Ford]]
+- Henry James Ford
+- Sarah Ann Ford
+- Eva Emily Ford
+- Christopher Reuben Ford
+- William Alexander Ford
+- Frederick Thomas Ford
+- Samuel George Ford
+
+
+
+[^1]: NZ Marriages registration number 1873/6979
+[^2]: NZ Deaths registration number 1915/4685
