@@ -3,6 +3,8 @@ title: FAULL, (1896) Elizabeth (Gladys)
 draft: false
 tags:
 ---
+![[gladys-faull-profile.jpg]]
+
 Born: 25 December 1896 (Palmerston North, Manawatū-Whanganui, New Zealand)
 
 Married: [[SOUNESS, (1901) Fergus Robert George|Fergus Robert George Souness]], 29 February 1923 (Dannevirke, Manawatū-Whanganui, New Zealand)

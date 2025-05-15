@@ -3,6 +3,8 @@ title: FAULL, (1893) William Thomas "Billy"
 draft: false
 tags:
 ---
+![[william-thomas-faul-profile.jpg]]
+
 Born: 28 February 1893 (Palmerston North, Manawatū-Whanganui, New Zealand)
 
 Died: WW1, 17 October 1917 (Passendale, West Flanders, Belgium)

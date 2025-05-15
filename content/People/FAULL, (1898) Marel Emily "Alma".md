@@ -3,6 +3,8 @@ title: FAULL, (1898) Marel Emily "Alma"
 draft: false
 tags:
 ---
+![[alma-faull-profile.jpg]]
+
 Born: 1 January 1898 (Palmerston North, Manawatū-Whanganui, New Zealand)[^1]
 
 ## Parents

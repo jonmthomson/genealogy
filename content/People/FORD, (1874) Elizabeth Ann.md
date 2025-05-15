@@ -11,6 +11,7 @@ Married: [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]], 15 May 1902 (Eltha
 
 Died: 9 August 1965 (Kaponga, Taranaki, New Zealand)
 
+
 ## Children
 - [[FAULL, (1893) William Thomas "Billy"|William Thomas "Billy" Faull]]
 - [[FAULL, (1894) Henry James "Harry"|Henry James "Harry Faull]]

@@ -3,6 +3,8 @@ title: FAULL, (1894) Henry James "Harry"
 draft: false
 tags:
 ---
+![[henry-james-faull-profile.jpg]]
+
 Born: 4 March 1894 (Palmerston North, Manawatū-Whanganui, New Zealand)
 
 Died: WW1, 26 September 1916 (Somme, Hauts-de-France, France)
