@@ -3,6 +3,8 @@ title: FOREMAN, (1861) Edward Burr
 draft: false
 tags:
 ---
+![[edward-burr-foreman-1861-profile.jpg]]
+
 Born: 24 May 1861 (Hitchin, Hertfordshire, England, United Kingdom)
 
 Occupation: Hairdresser
