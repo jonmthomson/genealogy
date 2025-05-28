@@ -24,5 +24,5 @@ Died: February 1984
 - [[FOREMAN, (1908) Christopher Raymond "Ray"|Christopher Raymond "Ray" Foreman]]
 
 ## Children
-- Diana Cleverley
-- David George Cleverley
+- Diana
+- David

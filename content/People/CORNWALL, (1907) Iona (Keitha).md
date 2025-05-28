@@ -17,4 +17,4 @@ Unknown
 
 ## Children
 - [[FOREMAN, (1932) Lois Gay|Lois Gay Foreman]]
-- Redacted
+- Jill

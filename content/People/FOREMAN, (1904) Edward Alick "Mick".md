@@ -25,7 +25,7 @@ Death: c. 1994
 
 ## Children
 - [[FOREMAN, (1932) Lois Gay|Lois Gay Foreman]]
-- Redacted
+- Jill
 
 
 [^1]: The North Family Reunion booklet recorded Mick's middle name as "Alec". NZ births registration number 1904/15647 gives "Alick" and NZ marriages registration number 1931/2627 gives "Alex".

@@ -16,7 +16,7 @@ Died: 1 June 1971 (Paeroa, Hauraki District, Waikato, New Zealand)
 - [[CORNWALL, (1907) Iona (Keitha)|Iona (Keitha) Cornwall]]
 
 ## Siblings
-- Redacted
+- Jill
 
 ## Children
 Unknown
