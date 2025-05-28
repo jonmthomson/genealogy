@@ -22,7 +22,7 @@ Died: 16 September 1942 (Wellington, Wellington, New Zealand)[^3]
 - [[FOREMAN, (1857) Mary Elena|Mary Elena Foreman]]
 - [[FOREMAN, (1859) Helen "Nellie"|Helen "Nellie" Foreman]]
 - [[FOREMAN, (1860) Edward Burr|Edward Burr Foreman]] (Died in infancy)
-- [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]]
+- [[FOREMAN, (1861) Edward Burr "Ted"|Edward Burr Foreman]]
 
 ## Children
 - [[HUMPHRIES, (1887) Myra Mary|Myra Humphries]]

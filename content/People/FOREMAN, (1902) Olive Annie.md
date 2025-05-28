@@ -6,7 +6,7 @@ tags:
 Born: 18 December 1902 (Kaponga, Taranaki, New Zealand)[^1]
 
 ## Parents
-- [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]]
+- [[FOREMAN, (1861) Edward Burr "Ted"|Edward Burr Foreman]]
 - [[FORD, (1874) Elizabeth Ann|Elizabeth Ann Faull (nee Ford)]]
 
 ## Siblings

@@ -10,7 +10,7 @@ Married: [[CLEVERLEY, (1911) Gordon George|Gordon George Cleverley]], 23 January
 Died: February 1984
 
 ## Parents
-- [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]]
+- [[FOREMAN, (1861) Edward Burr "Ted"|Edward Burr Foreman]]
 - [[FORD, (1874) Elizabeth Ann|Elizabeth Ann Faull (nee Ford)]]
 
 ## Siblings

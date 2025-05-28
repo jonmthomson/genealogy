@@ -32,5 +32,5 @@ Died: Spinal injury, 5 November 1874 (Orthopaedic Hospital, 56 Bolsover Square, 
 - [[FOREMAN, (1857) Mary Elena|Mary Elena Foreman]]
 - [[FOREMAN, (1859) Helen "Nellie"|Helen "Nellie" Foreman]]
 - [[FOREMAN, (1860) Edward Burr|Edward Burr Foreman]] (Died in infancy)
-- [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]]
+- [[FOREMAN, (1861) Edward Burr "Ted"|Edward Burr Foreman]]
 - [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate Foreman]]

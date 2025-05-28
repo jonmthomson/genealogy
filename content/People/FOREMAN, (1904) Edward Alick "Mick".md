@@ -10,7 +10,7 @@ Married: [[CORNWALL, (1907) Iona (Keitha)|Iona Keitha Cornwall]], 4 March 1931 (
 Death: c. 1994
 
 ## Parents
-- [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]]
+- [[FOREMAN, (1861) Edward Burr "Ted"|Edward Burr Foreman]]
 - [[FORD, (1874) Elizabeth Ann|Elizabeth Ann Faull (nee Ford)]]
 
 ## Siblings

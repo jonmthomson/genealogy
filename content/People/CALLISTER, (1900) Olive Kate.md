@@ -5,9 +5,9 @@ tags:
 ---
 ![[olive-callister-profile.jpg]]
 
-Born: c. 1900
+Born: 11 April 1900 (Carterton, Wellington, New Zealand)
 
-Died: Unknown
+Died: c. 1996[^1]
 
 ## Parents
 - [[CALLISTER, John|John Callister]]
@@ -19,3 +19,6 @@ Died: Unknown
 
 ## Children
 Unknown
+
+
+[^1]: NZ Deaths registration number 1996/39073

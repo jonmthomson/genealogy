@@ -1,5 +1,5 @@
 ---
-title: FOREMAN, (1861) Edward Burr
+title: FOREMAN, (1861) Edward Burr "Ted"
 draft: false
 tags:
 ---

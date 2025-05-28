@@ -13,7 +13,7 @@ Born: 14 October 1857 (Charlton, Hitchin, Hertfordshire, England, United Kingdom
 - [[FOREMAN, (1856) Annie Emma|Annie Emma Foreman]]
 - [[FOREMAN, (1859) Helen "Nellie"|Helen "Nellie" Foreman]]
 - [[FOREMAN, (1860) Edward Burr|Edward Burr Foreman]] (Died in infancy)
-- [[FOREMAN, (1861) Edward Burr|Edward Burr Foreman]]
+- [[FOREMAN, (1861) Edward Burr "Ted"|Edward Burr Foreman]]
 - [[FOREMAN, (1862) Eliza Kate "Kitty"|Eliza Kate "Kitty" Foreman]]
 
 ## Children
